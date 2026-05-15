@@ -15,7 +15,7 @@
 
 <br/>
 
-**Creator By [Sobing4413](https://github.com/Sobing4413) &nbsp;·&nbsp; Organization [Exter Interactive](#)**
+**Creator By [Sobing4413](https://github.com/Sobing4413) &nbsp;·&nbsp; Organization [Exter Interactive](https://discord.gg/77WnqnJcPu)**
 
 </div>
 
