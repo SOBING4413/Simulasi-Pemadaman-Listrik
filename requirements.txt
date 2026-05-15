@@ -1,0 +1,26 @@
+# ============================================================
+#  Simulasi Blackout Area v2.1.0
+#  Creator  : Sobing4413
+#  Organization : Exter Interactive
+# ============================================================
+#
+# Semua library di bawah ini sudah BUILT-IN di Python 3.
+# Tidak perlu install apapun via pip!
+#
+# Cukup pastikan Python 3.8+ sudah terinstall di PC kamu.
+# Download Python: https://www.python.org/downloads/
+# (Centang "Add Python to PATH" saat install!)
+#
+# ============================================================
+
+# --- BUILT-IN (tidak perlu pip install) ---
+tkinter       # GUI framework utama
+random        # Logika simulasi acak
+math          # Kalkulasi matematis
+time          # Timing & delay
+re            # Regular expression
+os            # Operasi sistem file
+json          # Format data JSON
+csv           # Export timeline CSV
+datetime      # Timestamp & durasi sesi
+collections   # defaultdict untuk data struktur
